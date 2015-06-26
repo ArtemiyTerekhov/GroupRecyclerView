@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">GroupRecyclerView</string>
+    <string name="app_name">Folder Browser</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="empty_file_list">List is empty!\nTap + to select folder</string>
 </resources>
